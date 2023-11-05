@@ -11,6 +11,4 @@ I had some issues to make the responsive design follow through but with some tes
 
 ### View it live
 
-
-
-
+https://project-week6-happy-thoughts.netlify.app/
