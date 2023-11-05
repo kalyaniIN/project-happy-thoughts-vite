@@ -1,3 +1,6 @@
+import { Messages } from "./components/Messages";
 export const App = () => {
-  return <div>Find me in src/app.jsx!</div>;
+  return <div  >
+    <Messages />
+  </div>;
 };
