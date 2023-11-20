@@ -4,7 +4,7 @@ export const MessageForm = ({
   onFormSubmit,
 }) => {
   return (
-    <div>
+    <>
       <h1 id="project-name">Project Happy Thoughts</h1>
       <h2 id="creator">Made by Kalyani Ramidi</h2>
       <div className="post-wraper">
@@ -31,6 +31,6 @@ export const MessageForm = ({
           </button>
         </form>
       </div>
-    </div>
+    </>
   );
 };
